@@ -1,0 +1,5 @@
+main: io.github.naete.xpbardamage.Main
+name: XPBarDamage
+description: Uses a players experience bar to show their last attack dealt.
+author: Naete
+version: 1.0.0
